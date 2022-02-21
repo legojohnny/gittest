@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 main first commit
+<<<<<<< HEAD
 main second commit
 =======
 branch 1 first commit
@@ -20,3 +21,10 @@ main first commit
 main second commit
 >0c94dd6c89cb4cdcb5d853f5e3a481d9354ebdf7>>>>>> 0c94dd6c89cb4cdcb5d853f5e3a481d9354ebdf7
 >>>>>>> branch1
+=======
+
+branch2 first commit
+branch2 second commit
+branch2 third commit
+
+>>>>>>> branch2
