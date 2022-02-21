@@ -1,3 +1,4 @@
 # gittest
 main first commit
-main second commit
+main second commiT
+branch3 first commit
